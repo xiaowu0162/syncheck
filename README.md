@@ -1,1 +1,1 @@
-# syncheck.github.io
+# syncheck
